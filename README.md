@@ -75,5 +75,45 @@
     https://goo.gl/maps/STnHBfCyP88ZKZtP6
     </p>
     <h1>Itineraries</h1>
-    
+    <table>
+      <tr>
+        <th>Who</th>
+        <th>Arrival</th>
+        <th>Departure</th>
+        <th>Needs ride?</th>
+      </tr>
+      <tr>
+        <td>Justin's crew</td>
+        <td>5/19 @ 2:54 pm on AA 2372</td>
+        <td>5/25 @ 11:41 am on AA 1316</td>
+        <td>No</td>
+      </tr>
+      <tr>
+        <td>#2</td>
+        <td></td>
+        <td>Charles' crew</td>
+        <td>Charles' crew</td>
+        <td>Charles' crew</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>#3</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>#4</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </table>
 </div>
