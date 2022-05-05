@@ -15,6 +15,10 @@
     Green = Airbnb<br>
     Red = Fairfield Inn Hotel
     <h2>Airbnb</h2>
+    5028 County Road 40 <br>
+    Fort Collins, CO 80525 <br>
+    https://www.airbnb.com/rooms/52756446 <br>
+    https://goo.gl/maps/nStox3kChkA8QePD9
     <table>
       <tr>
         <th>Company</th>
