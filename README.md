@@ -4,11 +4,11 @@
     <img src="dad.jpg" alt="Dad" width="278" height="192" />
     <br>
     <h1>Dates & Location</h1>
-    <p>
-      * The weekend of May 21/22 </br>
-      * Fort Collins, CO </br>
-      * Venue TBD, targeting 2 pm on Sunday the 22nd </br>
-    </p>
+    <ul>
+      <li>The weekend of May 21/22</li>
+      <li>Fort Collins, CO</li>
+      <li>Venue TBD, targeting 2 pm on Sunday the 22nd</li>
+    </ul>
     <h1>Accommodations</h1>
     <img src="locations.jpg" alt="Locations" width="282" height="307"/> <br>
     Blue = 3413 Rosestone Ct<br>
@@ -75,5 +75,5 @@
     https://goo.gl/maps/STnHBfCyP88ZKZtP6
     </p>
     <h1>Itineraries</h1>
-  
+    
 </div>
