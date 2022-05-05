@@ -80,25 +80,25 @@
         <th>Who</th>
         <th>Arrival</th>
         <th>Departure</th>
-        <th>Needs ride?</th>
+        <th>Needs ride? (Arrival / Departure)</th>
       </tr>
       <tr>
         <td>Justin's crew</td>
         <td>5/19 @ 2:54 pm on AA 2372</td>
         <td>5/25 @ 11:41 am on AA 1316</td>
-        <td>No</td>
+        <td>No / No</td>
       </tr>
       <tr>
         <td>Charles' crew</td>
         <td>5/20</td>
         <td>5/23</td>
-        <td>?</td>
+        <td>? / ?</td>
       </tr>
       <tr>
         <td>Jon Edward</td>
         <td>5/18</td>
         <td>5/25</td>
-        <td>?</td>
+        <td>? / ?</td>
       </tr>
     </table>
 </div>
