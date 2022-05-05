@@ -89,28 +89,19 @@
         <td>No</td>
       </tr>
       <tr>
-        <td>#2</td>
-        <td></td>
         <td>Charles' crew</td>
-        <td>Charles' crew</td>
-        <td>Charles' crew</td>
-        <td></td>
-        <td></td>
+        <td>5/20</td>
+        <td>5/23</td>
+        <td>?</td>
       </tr>
       <tr>
         <td>#3</td>
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
       </tr>
       <tr>
         <td>#4</td>
-        <td></td>
-        <td></td>
-        <td></td>
         <td></td>
         <td></td>
         <td></td>
