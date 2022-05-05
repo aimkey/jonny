@@ -18,27 +18,60 @@
     5028 County Road 40 <br>
     Fort Collins, CO 80525 <br>
     https://www.airbnb.com/rooms/52756446 <br>
-    https://goo.gl/maps/nStox3kChkA8QePD9
+    https://goo.gl/maps/nStox3kChkA8QePD9 <br><br>
+    Check in: Thu May 19th 3 pm <br>
+    Check out: Wed May 25 12 pm <br><br>
     <table>
       <tr>
-        <th>Company</th>
-        <th>Contact</th>
-        <th>Country</th>
+        <th>Bedroom</th>
+        <th>5/19</th>
+        <th>5/20</th>
+        <th>5/21</th>
+        <th>5/22</th>
+        <th>5/23</th>
+        <th>5/24</th>
       </tr>
       <tr>
-        <td>Alfreds Futterkiste</td>
-        <td>Maria Anders</td>
-        <td>Germany</td>
+        <td>#1</td>
+        <td>Justin's crew</td>
+        <td>Justin's crew</td>
+        <td>Justin's crew</td>
+        <td>Justin's crew</td>
+        <td>Justin's crew</td>
+        <td>Justin's crew</td>
       </tr>
       <tr>
-        <td>Centro comercial Moctezuma</td>
-        <td>Francisco Chang</td>
-        <td>Mexico</td>
+        <td>#2</td>
+        <td></td>
+        <td>Charles' crew</td>
+        <td>Charles' crew</td>
+        <td>Charles' crew</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>#3</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>#4</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
       </tr>
     </table>
+    Common space / couches are also available.
     <h2>Hotel</h2>
-    <p>Fairfield Inn & Suites by Marriott Fort Collins South<br>
-    3520 Timberwood Dr, Fort Collins, CO 80528<br>
+    <p>Fairfield Inn & Suites by Marriott Fort Collins South <br>
+    3520 Timberwood Dr, Fort Collins, CO 80528 <br>
     https://goo.gl/maps/STnHBfCyP88ZKZtP6
     </p>
     <h1>Itineraries</h1>
