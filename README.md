@@ -92,7 +92,7 @@
         <td>Charles' crew</td>
         <td>5/20</td>
         <td>5/23</td>
-        <td>? / ?</td>
+        <td>No / No</td>
       </tr>
       <tr>
         <td>Jon Edward</td>
