@@ -113,4 +113,10 @@
         <td>No / No</td>
       </tr>
     </table>
+    <h1>Transportation</h1>
+    <ul>
+        <li>Hyundai Palisades w/ roof box (Justin's crew)</li>
+        <li>Minivan (Jimmy's crew)</li>
+        <li>Minivan? (Charles' crew)</li>
+    <ul>
 </div>
