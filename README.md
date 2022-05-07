@@ -51,12 +51,12 @@
       </tr>
       <tr>
         <td>#3</td>
-        <td>GGMJ?</td>
-        <td>GGMJ</td>
-        <td>GGMJ</td>
-        <td>GGMJ</td>
-        <td>GGMJ?</td>
-        <td>GGMJ?</td>
+        <td></td>
+        <td>Jason & Sasha</td>
+        <td>Jason & Sasha</td>
+        <td>Jason & Sasha</td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
         <td>#4</td>
@@ -112,10 +112,16 @@
         <td>5/23</td>
         <td>No / No</td>
       </tr>
+        <tr>
+        <td>Jason & Sasha</td>
+        <td>5/20</td>
+        <td>5/23</td>
+        <td>? / ?</td>
+      </tr>
     </table>
     <h1>Transportation</h1>
     <ul>
-        <li>Hyundai Palisades w/ roof box (Justin's crew)</li>
+        <li>Hyundai Palisade w/ roof box (Justin's crew)</li>
         <li>Minivan (Jimmy's crew)</li>
         <li>Minivan? (Charles' crew)</li>
     <ul>
