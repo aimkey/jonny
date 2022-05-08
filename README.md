@@ -3,12 +3,16 @@
     <br>
     <img src="dad.jpg" alt="Dad" width="278" height="192" />
     <br>
-    <h1>Dates & Location</h1>
-    <ul>
-      <li>The weekend of May 21/22</li>
-      <li>Fort Collins, CO</li>
-      <li>Venue TBD, targeting 2 pm on Sunday the 22nd</li>
-    </ul>
+    <h1>Date & Location</h1>
+    <p>
+      Sunday, May 22nd at 2 pm MDT <br>
+      Cafe Vino <br>
+      1200 S. College Avenue <br>
+      Fort Collins, CO 80524 <br>
+      https://goo.gl/maps/YWd4yhMHVPhNmpKq5
+    </p>
+    <h1>Obituary & Memorial</h1>
+    https://www.dignitymemorial.com/obituaries/ft-collins-co/jon-forsyth-10734511
     <h1>Accommodations</h1>
     <img src="locations.jpg" alt="Locations" width="282" height="307"/> <br>
     Blue = 3413 Rosestone Ct<br>
