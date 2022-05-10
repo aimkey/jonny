@@ -120,7 +120,7 @@
         <td>Jason & Sasha</td>
         <td>5/20</td>
         <td>5/23</td>
-        <td>? / ?</td>
+        <td>No / No</td>
       </tr>
     </table>
     <h1>Transportation</h1>
