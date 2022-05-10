@@ -114,7 +114,7 @@
         <td>Jesse, Jacky, Adam</td>
         <td>5/20</td>
         <td>5/23</td>
-        <td>No / No</td>
+        <td>No / Yes?</td>
       </tr>
         <tr>
         <td>Jason & Sasha</td>
