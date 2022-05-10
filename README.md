@@ -101,8 +101,8 @@
       <tr>
         <td>Jon Edward</td>
         <td>5/18</td>
-        <td>5/25</td>
-        <td>? / ?</td>
+        <td>5/24</td>
+        <td>Yes / Yes</td>
       </tr>
       <tr>
         <td>Jimmy & Jessica</td>
@@ -128,5 +128,6 @@
         <li>Hyundai Palisade w/ roof box (Justin's crew)</li>
         <li>Minivan (Jimmy's crew)</li>
         <li>Minivan? (Charles' crew)</li>
+        <li>Sedan? (Jason & Sasha)</li>
     <ul>
 </div>
