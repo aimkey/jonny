@@ -105,6 +105,12 @@
         <td>No / No</td>
       </tr>
       <tr>
+        <td>Jeff & Karen</td>
+        <td>5/17 (Staying in Denver until 5/20)</td>
+        <td>5/24</td>
+        <td>No / No</td>
+      </tr>
+      <tr>
         <td>Charles' crew</td>
         <td>5/20</td>
         <td>5/23</td>
@@ -119,7 +125,7 @@
         <tr>
         <td>Jesse, Jacky, Adam</td>
         <td>5/20</td>
-        <td>5/23</td>
+        <td>5/23 @ 5:39 pm</td>
         <td>No / Yes? (Charles/Jason?)</td>
       </tr>
         <tr>
