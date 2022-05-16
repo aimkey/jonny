@@ -87,6 +87,18 @@
         <th>Needs ride? (Arrival / Departure)</th>
       </tr>
       <tr>
+        <td>Jon Edward</td>
+        <td>5/18 @ 12:17 pm on Air Canada 8710</td>
+        <td>5/24</td>
+        <td>Yes (Ryan or Tali?) / Yes (Jimmy?)</td>
+      </tr>
+      <tr>
+        <td>GGMJ</td>
+        <td>5/18 @ 10:40 pm on AA 869</td>
+        <td>5/24 @ 11:55 pm on Jet Blue 0098</td>
+        <td>Yes (Ryan/Tali/Jon Edward?) / Yes (Jimmy?)</td>
+      </tr>
+      <tr>
         <td>Justin's crew</td>
         <td>5/19 @ 2:54 pm on AA 2372</td>
         <td>5/25 @ 11:41 am on AA 1316</td>
@@ -97,12 +109,6 @@
         <td>5/20</td>
         <td>5/23</td>
         <td>No / No</td>
-      </tr>
-      <tr>
-        <td>Jon Edward</td>
-        <td>5/18</td>
-        <td>5/24</td>
-        <td>Yes / Yes</td>
       </tr>
       <tr>
         <td>Jimmy & Jessica</td>
