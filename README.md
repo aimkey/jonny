@@ -96,7 +96,7 @@
       <tr>
         <td>Justin's crew</td>
         <td>5/19 @ 2:54 pm on AA 2372</td>
-        <td>(Justin only) 5/24 @ 8:20 am to work in Cali on Tuesday, back at 11:05 pm<br>(Entire crew) Sleeping at Denver Airport hotel 5/23 & 5/24<br>(Entire crew) 5/25 @ 11:41 am on AA 1316</td>
+        <td>(Entire crew) Sleeping at Denver Airport hotel 5/23 & 5/24<br>(Justin only) works in Cali 5/24, 8:20 am to 11:05 pm<br>(Entire crew) 5/25 @ 11:41 am on AA 1316</td>
         <td>No / No</td>
       </tr>
       <tr>
