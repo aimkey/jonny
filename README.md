@@ -24,7 +24,7 @@
     https://www.airbnb.com/rooms/52756446 <br>
     https://goo.gl/maps/nStox3kChkA8QePD9 <br><br>
     Check in: Thu May 19th 3 pm <br>
-    Check out: Wed May 25 12 pm <br><br>
+    Check out: Tue May 24th 12 pm <br><br>
     <table>
       <tr>
         <th>Bedroom</th>
@@ -32,17 +32,15 @@
         <th>5/20</th>
         <th>5/21</th>
         <th>5/22</th>
-        <th>5/23</th>
-        <th>5/24</th>
+          <th>5/23</th>
       </tr>
       <tr>
         <td>#1</td>
         <td>Justin's crew</td>
         <td>Justin's crew</td>
         <td>Justin's crew</td>
-        <td>Justin's crew</td>
-        <td>Justin's crew</td>
-        <td>Justin's crew</td>
+        <td></td>
+          <td></td>
       </tr>
       <tr>
         <td>#2</td>
@@ -51,7 +49,7 @@
         <td>Charles' crew</td>
         <td>Charles' crew</td>
         <td></td>
-        <td></td>
+        
       </tr>
       <tr>
         <td>#3</td>
@@ -60,7 +58,7 @@
         <td>Jason & Sasha</td>
         <td>Jason & Sasha</td>
         <td></td>
-        <td></td>
+        
       </tr>
       <tr>
         <td>#4</td>
@@ -69,7 +67,7 @@
         <td>GGMJ</td>
         <td>GGMJ</td>
         <td>GGMJ</td>
-        <td></td>
+        
       </tr>
     </table>
     Common space / couches are also available.
