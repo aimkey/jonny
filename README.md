@@ -32,7 +32,7 @@
         <th>5/20</th>
         <th>5/21</th>
         <th>5/22</th>
-          <th>5/23</th>
+        <th>5/23</th>
       </tr>
       <tr>
         <td>#1</td>
@@ -40,7 +40,7 @@
         <td>Justin's crew</td>
         <td>Justin's crew</td>
         <td></td>
-          <td></td>
+        <td></td>
       </tr>
       <tr>
         <td>#2</td>
@@ -49,7 +49,6 @@
         <td>Charles' crew</td>
         <td>Charles' crew</td>
         <td></td>
-        
       </tr>
       <tr>
         <td>#3</td>
@@ -58,7 +57,6 @@
         <td>Jason & Sasha</td>
         <td>Jason & Sasha</td>
         <td></td>
-        
       </tr>
       <tr>
         <td>#4</td>
@@ -67,7 +65,6 @@
         <td>GGMJ</td>
         <td>GGMJ</td>
         <td>GGMJ</td>
-        
       </tr>
     </table>
     Common space / couches are also available.
