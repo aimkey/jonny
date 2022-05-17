@@ -91,7 +91,7 @@
         <td>GGMJ</td>
         <td>5/19 @ 7:42 pm on AA 2235</td>
         <td>5/24 @ 11:55 pm on Jet Blue 0098</td>
-        <td>Yes (Justin) / Yes (Jimmy?)</td>
+        <td>Yes (Justin/Jon E) / Yes (Jimmy?)</td>
       </tr>
       <tr>
         <td>Justin's crew</td>
